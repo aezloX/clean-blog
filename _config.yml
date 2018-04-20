@@ -2,13 +2,15 @@ title:             📮 Aezlo 🚀
 email:             aezloman@athelo.net
 description:       To aezloland, to all.
 author:            Aezlo
-baseurl:           "/clean-blog"
-url:               "http://aezlox.github.io"
+baseurl:           "/"
+url:               "http://blog.athelo.net"
+permalink: /:year/:month/:title
 
 # Social Profiles
 twitter_username:  aezloman
 github_username:   aezloX
 facebook_username: #
+deviantart_username: aezloman
 
 # Build settings
 markdown:          kramdown
